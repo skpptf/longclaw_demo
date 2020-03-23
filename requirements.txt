@@ -1,4 +1,5 @@
-longclaw>=1.0.2
-Django>=2.1.4
-wagtail>=2.4
-stripe>=2.17.0
+djangorestframework<3.10.0
+longclaw==1.0.2
+Django==2.1.4
+wagtail==2.4
+stripe==2.17.0
